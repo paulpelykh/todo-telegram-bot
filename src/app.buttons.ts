@@ -5,7 +5,7 @@ export function actionButtons() {
     [
       Markup.button.callback('📃 Todo list', 'list'),
       Markup.button.callback('✅ Complete task', 'complete'),
-      Markup.button.callback('✏ Edit task ', 'edit'),
+      Markup.button.callback('✏ Edit task', 'edit'),
       Markup.button.callback('❌ Delete task', 'delete'),
     ],
     {
